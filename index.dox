@@ -1,0 +1,10 @@
+/*! \mainpage DCC Device Library
+ *
+ * \section intro_sec Introduction
+ *
+ * This library belongs to a project I have worked on at the University of Fribourg in Switzerland. 
+ * The goal is to read DCC signals and to use them to switch turnouts and railway signals. The following
+ * image shows the class hierarchy.
+ *  \image html hierarchy.png "class hierarchy"
+ *  \image latex hierarchy.eps "class hierarchy" width=14cm
+ */

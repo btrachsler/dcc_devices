@@ -1,0 +1,16 @@
+DCC              KEYWORD1
+dcc_packet       KEYWORD1
+DCCDevice        KEYWORD1
+Accessory        KEYWORD1
+Light            KEYWORD1
+Turnout          KEYWORD1
+ThreeLightSignal KEYWORD1
+init             KEYWORD2
+hasDCCData       KEYWORD2
+readDCCPacket    KEYWORD2
+readDCCDataByte  KEYWORD2
+readDCCDataSize  KEYWORD2
+readPreambleSize KEYWORD2
+readDCCAddress   KEYWORD2
+switchAccessory  KEYWORD2
+readTurnoutState KEYWORD2
